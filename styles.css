@@ -92,6 +92,10 @@ section {
     padding: 100px 0;
 }
 
+section h2{
+    padding-top: 150px;
+}
+
 .project {
     margin-bottom: 30px;
 }
